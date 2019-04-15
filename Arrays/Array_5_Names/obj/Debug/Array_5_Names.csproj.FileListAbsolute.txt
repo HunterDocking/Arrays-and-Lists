@@ -1,0 +1,7 @@
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays\Array_5_Names\bin\Debug\Array_5_Names.exe.config
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays\Array_5_Names\bin\Debug\Array_5_Names.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays\Array_5_Names\bin\Debug\Array_5_Names.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays\Array_5_Names\obj\Debug\Array_5_Names.csprojAssemblyReference.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays\Array_5_Names\obj\Debug\Array_5_Names.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays\Array_5_Names\obj\Debug\Array_5_Names.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays\Array_5_Names\obj\Debug\Array_5_Names.pdb
