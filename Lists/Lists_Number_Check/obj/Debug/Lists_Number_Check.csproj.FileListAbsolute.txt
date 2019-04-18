@@ -5,3 +5,10 @@ C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Lists\Lists_Number_Check\ob
 C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Lists\Lists_Number_Check\obj\Debug\Lists_Number_Check.csproj.CoreCompileInputs.cache
 C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Lists\Lists_Number_Check\obj\Debug\Lists_Number_Check.exe
 C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Lists\Lists_Number_Check\obj\Debug\Lists_Number_Check.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays-and-Lists\Lists\Lists_Number_Check\obj\Debug\Lists_Number_Check.csprojAssemblyReference.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays-and-Lists\Lists\Lists_Number_Check\obj\Debug\Lists_Number_Check.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays-and-Lists\Lists\Lists_Number_Check\obj\Debug\Lists_Number_Check.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays-and-Lists\Lists\Lists_Number_Check\obj\Debug\Lists_Number_Check.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays-and-Lists\Lists\Lists_Number_Check\bin\Debug\Lists_Number_Check.exe.config
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays-and-Lists\Lists\Lists_Number_Check\bin\Debug\Lists_Number_Check.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Arrays-and-Lists\Lists\Lists_Number_Check\bin\Debug\Lists_Number_Check.pdb
